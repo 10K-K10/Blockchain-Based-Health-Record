@@ -1,2 +1,1 @@
-# Blockchain-Based-Health-Record
-Blockchain Based Health Record of Citizens
+# Blockchain-based-health-record
